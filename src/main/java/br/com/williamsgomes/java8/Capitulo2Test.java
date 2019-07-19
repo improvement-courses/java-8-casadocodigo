@@ -14,6 +14,7 @@ public class Capitulo2Test {
 		List<Usuario> usuarios = Arrays.asList(paulo, rodrigo, guilherme);
 
 		usuarios.forEach(u -> u.tornarModerador());
+		
 	}
 
 }
