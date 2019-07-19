@@ -15,7 +15,6 @@ public class Capitulo3Test {
 		
 		validadorCEP.valida("04101-300");
 		
-		
 	}
 	
 }
